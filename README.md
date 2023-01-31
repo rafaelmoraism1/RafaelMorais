@@ -30,5 +30,5 @@
 
 ##
 
- <i> :receipt:	Acreditar em si mesmo, e confiar que está no caminho correto.</i> <br>
+ <i> :receipt:	Acreditar em si mesmo e confiar que está no caminho correto.</i> <br>
  <i> (Sêneca)</i> <br> <br>
