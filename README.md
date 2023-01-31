@@ -1,6 +1,6 @@
 # Rafael Morais
-<h3>👋 Olá, eu sou Rafael Morais! Seja bem vindo(a) ao meu perfil GitHub! </h3>
-<h4>:computer:	 Eu sou um Aprendiz de Desenvolvimento Back-End! </h4> 
+<h3>👋 Olá! Seja bem vindo(a) ao meu perfil GitHub! </h3>
+<h4>:computer:	 Eu sou um aprendiz em Desenvolvimento Back-End! </h4> 
 
 <h6>:pencil2:	 #desenvolvimento, #back-end, #computação, e #tecnologia </h6><br>
 
