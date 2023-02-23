@@ -2,8 +2,6 @@
 <h3>👋 Olá! Seja bem vindo(a) ao meu perfil GitHub! </h3>
 <h4>:computer:	 Eu sou um aprendiz em Desenvolvimento Back-End! </h4> 
 
-<h6>:pencil2:	 #desenvolvimento, #back-end, #computação, e #tecnologia </h6><br>
-
 <div>
   <a href="[https://github.com/rafaelmoraism1](https://github.com/rafaelmoraism1)"> 
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rafaelmoraism1&show_icons=true&theme=vision-friendly-dark&include_all_commits=dark&count_private=true"/>
